@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/cic-graph-logo-nobg-mini.png" alt="Logo" width="180" height="180">
+    <img src="assets/logo_2.png" alt="Logo" width="180" height="180">
   </a>
 
   <h3 align="center">RandWalk</h3>
