@@ -9,3 +9,8 @@ dependencies = [
     "pygame>=2.6.1",
     "scipy>=1.15.2",
 ]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+]

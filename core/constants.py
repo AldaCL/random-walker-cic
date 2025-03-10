@@ -11,4 +11,4 @@ class PROBABILITY_DISTRIBUTIONS(Enum):
     with some of the common probability distributions,
     we can define them here
     """
-    pass
+    NORMAL = "NORMAL"
